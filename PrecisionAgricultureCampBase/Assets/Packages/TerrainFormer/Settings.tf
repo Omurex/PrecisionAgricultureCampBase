@@ -341,5 +341,5 @@
     "mouldAllIterations": 3,
     "targetOpacity": 1.0,
     "selectedTextureIndex": 0,
-    "mainDirectory": "Assets/TerrainFormer/"
+    "mainDirectory": "Assets/Packages/TerrainFormer/"
 }
